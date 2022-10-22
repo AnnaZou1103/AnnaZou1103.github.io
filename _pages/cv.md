@@ -31,7 +31,7 @@ Research experience
   * Duties included: Proposed a smart dialogue system generating natural feedback in Referential Communication Tasks and achieving a mutual theory of mind between humans and the robot
   * Supervisor: Prof. Xiaopeng Zhao and Dr. Kwai Lam Wong
 
-  * Jul 2021 - Jul 2022: Automatically Generate Issue Titles for Bug Reports with Deep Learning Techniques 
+* Jul 2021 - Jul 2022: Automatically Generate Issue Titles for Bug Reports with Deep Learning Techniques 
   * City University of Hong Kong 
   * Duties included: Proposed an attention-based Seq2Seq model with the Roberta encoder - Transformers decoder structure to automatically generate human-like titles for bug reports and prepared the dataset
   * Supervisor: Prof. Jacky Keung
@@ -50,7 +50,7 @@ Work experience
     * Developed an Android App to engage audiences interested in science-related events in Hong Kong. 
     * Developed Angular website and server equipped with MongoDB for company internal resources management.
   
-Service and leadership
+Leadership and community activities
 ======
 * Sep 2021 - present: Student Mentor
   * City University of Hong Kong
@@ -63,12 +63,12 @@ Service and leadership
     * Organized Hackathon attracting more than 300 participants and obtaining sponsorship from enterprises. 
     * Delivered regular tutorials to provide students with opportunities to learn technical skills.
 
-  * Aug 2021 - Jul 2022: Volunteer
+* Aug 2021 - Jul 2022: Volunteer
   * TECC HK Ebuddy Program
   * Duties included: 
     * Provided children living in remote areas with weekly tutoring to enhance their academic performance and broaden their horizons via distance learning.
 
-  * Sep 2019 - Sep 2021: General Secretary
+* Sep 2019 - Sep 2021: General Secretary
   * Calligraphantasy Culture Development Society
   * Duties included: 
     * Published prose in a literary magazine and promoted the club on the social media.
@@ -81,7 +81,5 @@ Awards
 
 Skills
 ======
-* Programming Languages
-  * C++, CSS/HTML, JavaScript, JAVA, Kotlin, Python, SQL
-* Tools
-  * Angular, Adobe Premiere, Adobe XD, Git, PyTorch
+* Programming Languages: C++, CSS/HTML, JavaScript, JAVA, Kotlin, Python, SQL
+* Tools: Angular, Adobe Premiere, Adobe XD, Git, PyTorch
