@@ -9,4 +9,4 @@ citation: 'Xiaoxue Ma, Jacky Keung, Xiao Yu, <b>Huiqi Zou</b>, Jingyu Zhang and 
 ---
 This paper is under review.
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
+[Download paper here](http://annazou1103.github.io/files/ATTSUM.pdf)
