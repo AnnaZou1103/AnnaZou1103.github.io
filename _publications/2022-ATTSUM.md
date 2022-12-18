@@ -5,7 +5,7 @@ permalink: /publication/2022-ATTSUM
 excerpt: 'This paper is under review.'
 # date: 2022-08-02
 # venue: 'IEEE Transactions on Reliability'
-citation: 'Xiaoxue Ma, Jacky Keung, Xiao Yu, <b>Huiqi Zou</b>, Jingyu Zhang and Yishu Li. &quot;ATTSUM: A Deep Attention-Based Summarization Model for Bug Report Title Generation&quot;, Sumitted to IEEE Transactions on Reliability, 2022.'
+citation: 'Xiaoxue Ma, Jacky Keung, Xiao Yu, <b>Huiqi Zou</b>, Jingyu Zhang and Yishu Li. &quot;ATTSUM: A Deep Attention-Based Summarization Model for Bug Report Title Generation&quot;, Submitted to IEEE Transactions on Reliability, 2022.'
 ---
 
 <b>Keywords</b>: Text Summarization, Bug Reports, Title Generation, Transformers, Deep Learning
