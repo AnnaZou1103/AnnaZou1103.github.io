@@ -15,4 +15,4 @@ My research interest lies in natural language processing (NLP), human-computer i
 
 For more information, please see my  <a href='https://annazou1103.github.io/files/CV.pdf'>CV</a>.
 
-Feel free to contact me anyway!
+Feel free to contact me!
