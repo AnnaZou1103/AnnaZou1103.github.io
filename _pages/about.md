@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior Computer Science student at City University of Hong Kong (Artificial Intelligence Stream). My research interest is in <b> Natural Language Processing </b> and <b> Human Computer Interaction </b>.
+I am a senior <a href='https://www.cs.cityu.edu.hk'>Computer Science </a> student at <a href="https://www.cityu.edu.hk"> City University of Hong Kong</a> (Artificial Intelligence Stream). 
+I am advised by <a href='https://www.cs.cityu.edu.hk'>Prof. Linqi Song </a>.
+My research interest is in <b> Natural Language Processing </b> .
 
 Last year, some discursive issue titles I saw while working as an intern at Siemens Advanta inspired me to apply the NLP technique in software engineering. We proposed a Transformer-based model to generate text stating the reporter's intentions in one sentence. This summer, I further explored the field in an HCI project incorporating a psychological concept in establishing a user-friendly dialogue system. The project paper is accepted at a conference. Furthermore, I recently joined a multimodal project. My work is to construct a model for computing and inducing human emotion based on facial expressions. 
 
