@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zou Huiqi"
+title                    : "Huiqi Zou"
 title_separator          : "-"
-name                     : &name "Zou Huiqi"
-description              : &description "Senior Computer Science student at City University of Hong Kong"
+name                     : &name "Huiqi Zou"
+description              : &description "Computer Science Master Student at Johns Hopkins University"
 url                      : https://AnnaZou1103.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AnnaZou1103/AnnaZou1103.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zou Huiqi"
+  name             : "Huiqi Zou"
   avatar           : "profile.png"
-  bio              : "Senior Computer Science student at City University of Hong Kong"
-  location         : "Hong Kong, China"
+  bio              : "Computer Science Master Student at Johns Hopkins University"
+  location         : "Baltimore, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "huiqizou2-c@my.cityu.edu.hk"
+  email            : "hzou11@jh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
