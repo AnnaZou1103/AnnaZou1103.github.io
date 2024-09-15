@@ -2,7 +2,7 @@
 title: "ATTSUM: A Deep Attention-Based Summarization Model for Bug Report Title Generation"
 collection: publications
 permalink: /publication/2022-ATTSUM
-excerpt: 'This paper is publishied on IEEE Transactions on Reliability.'
+# excerpt: 'This paper is publishied on IEEE Transactions on Reliability.'
 # date: 2022-08-02
 # venue: 'IEEE Transactions on Reliability'
 citation: 'X. Ma, J. W. Keung, X. Yu, <b>H. Zou</b>, J. Zhang and Y. Li, in IEEE Transactions on Reliability, 2023.'
