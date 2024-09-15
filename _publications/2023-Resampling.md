@@ -2,7 +2,7 @@
 title: "On the Influence of Data Resampling for Deep Learning-Based Anomaly Detection: Insights and Recommendations"
 collection: publications
 permalink: /publication/2023-Resampling
-excerpt: 'This paper is under review.'
+excerpt: 'This paper on arxiv.'
 # date: 2022-08-02
 # venue: ''
 # citation: 'X. Ma, <b>H. Zou</b>.'
@@ -16,4 +16,5 @@ This study aims to fill this gap by providing an in-depth analysis of the impact
 Our findings indicate that, overall, oversampling techniques outperform undersampling and hybrid sampling techniques. Specifically, simple random sampling directly applied to raw data exhibits superior performance compared to other techniques conducted in the feature space. Interestingly, undersampling techniques do not effectively alleviate the issue of data imbalance. To maximize the effectiveness of resampling for existing DLAD approaches, we recommend adopting an oversampling method with a lower desired ratio. This approach narrows the gap between the counts of normal and abnormal data by creating more minority data. For undersampling methods, we recommend employing a larger desired ratio to mitigate the disparity between the quantities of the two classes while minimizing information loss.<br>
 In conclusion, our study provides valuable insights into the intricate relationship between data resampling techniques and DLAD. By addressing the challenge of class imbalance, researchers and practitioners can enhance the performance of DLAD approaches in anomaly detection tasks.
 
-This paper is under review.
+This paper on arxiv.
+[Download paper here](https://arxiv.org/abs/2405.03489)
