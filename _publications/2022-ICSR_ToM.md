@@ -5,7 +5,7 @@ permalink: /publication/2022-ICSR_ToM
 # excerpt: 'This paper is accepted by the 14th International Conference on Social Robotics. The first three authors contributed equally to this work.'
 # date: 2022-10-15
 # venue: 'ICSR 2022'
-citation: 'Z. Liu*, Y. Qin*, <b>H. Zou</b>*, E. Paek, D. Casenhiser, W. Zhou and X. Zhao., in Social Robotics, 2022. (* denotes equal contribution).'
+citation: 'Z. Liu*, Y. Qin*, <b>H. Zou</b>*, E. Paek, D. Casenhiser, W. Zhou, X. Zhao., in Social Robotics, pp. 100-109, 2022. (* denotes equal contribution).'
 ---
 
 <b>Keywords</b>: Human-Robot Interaction, Theory of Mind, Social Assistive Robots, Conversational Agent
