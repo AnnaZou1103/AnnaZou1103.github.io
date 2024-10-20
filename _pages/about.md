@@ -10,7 +10,7 @@ redirect_from:
 
 I am Huiqi Zou, a Computer Science Master student at <a href="https://www.cs.jhu.edu">Johns Hopkins University</a>, graduating in December 2024 with a thesis supervised by <a href='https://www.ziangxiao.com/'>Prof. Ziang Xiao</a>. I also work closely with <a href="https://www.tshu.io">Prof. Tianmin Shu</a> at the <a href="http://scai.cs.jhu.edu">SCAI Lab</a>. I am actively seeking a PhD position starting in Fall 2025.<br>
 
-I hold a Bachelor’s degree in Computer Science (Artificial Intelligence Stream) from <a href="https://www.cs.cityu.edu.hk">City University of Hong Kong</a>, where I completed my dissertation under the supervision of <a href='https://sites.google.com/site/aisquaredlab/'>Prof. Linqi Song</a>. 
+I hold a Bachelor’s degree in Computer Science (Artificial Intelligence Stream) from <a href="https://www.cs.cityu.edu.hk">City University of Hong Kong</a>, where I completed my final year project under the supervision of <a href='https://sites.google.com/site/aisquaredlab/'>Prof. Linqi Song</a>. 
 
 My research interest lies in human-computer interaction (HCI) and natural language processing (NLP), especially in the field of interactive evaluation. I am currently fascinated by the following <b>research questions</b>:
 1. How to evaluate the effectiveness of design in simulated real-world interactions? 
