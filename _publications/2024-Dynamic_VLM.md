@@ -5,7 +5,7 @@ permalink: /publication/2024-Dynamic_VLM
 #excerpt: 'This paper is under review.'
 # date: 2022-08-02
 # venue: ''
-citation: '<b>H. Zou</b>, Y. Li, Z. Xiao (Extended Abstract), GenBench workshop 2024.'
+citation: 'Y. Li*, <b>H. Zou</b>*, Z. Xiao (Extended Abstract), GenBench workshop 2024. (* denotes equal contribution)'
 ---
 
 <b>Keywords</b>: Hallucination, MLLM
