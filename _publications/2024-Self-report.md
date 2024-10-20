@@ -5,7 +5,7 @@ permalink: /publication/Self-report
 excerpt: 'This paper is under review.'
 # date: 2022-08-02
 # venue: ''
-citation: '<b>H. Zou</b>,P. Wang, Z. Yan, T. Sun, Z. Xiao. (Under Review).'
+citation: '<b>H. Zou</b>, P. Wang, Z. Yan, T. Sun, Z. Xiao, (Under Review).'
 ---
 
 <b>Keywords</b>: Human Factors in NLP; Evaluation Methodologies

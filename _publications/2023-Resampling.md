@@ -5,7 +5,7 @@ permalink: /publication/2023-Resampling
 # excerpt: 'This paper on arxiv.'
 # date: 2022-08-02
 # venue: ''
-citation: 'X. Ma, <b>H. Zou</b>, J. Keung, P. He, Y. Li, X. Yu, F. Sarro., arXiv preprint arXiv:2405.03489, 2024.'
+citation: 'X. Ma, <b>H. Zou</b>, J. Keung, P. He, Y. Li, X. Yu, F. Sarro, arXiv preprint arXiv:2405.03489, 2024.'
 ---
 
 <b>Keywords</b>: Deep Learning-Based Anomaly Detection, Data Resampling Techniques, Class Imbalance, Empirical Analysis

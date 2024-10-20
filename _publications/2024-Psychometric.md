@@ -5,7 +5,7 @@ permalink: /publication/2024-Psychometric
 #excerpt: 'This paper is under review.'
 # date: 2022-08-02
 # venue: ''
-citation: 'P. Wang, <b>H. Zou</b>, Z. Yan, F. Guo, T. Sun, Z. Xiao, B. Zhang., OSF Preprints. osf.io/rwy9b, 2024.'
+citation: 'P. Wang, <b>H. Zou</b>, Z. Yan, F. Guo, T. Sun, Z. Xiao, B. Zhang, OSF Preprints. osf.io/rwy9b, 2024.'
 ---
 
 <b>Keywords</b>: Artificial Intelligence, Large Language model, Personality, Psychometrics, Survey Methodology
