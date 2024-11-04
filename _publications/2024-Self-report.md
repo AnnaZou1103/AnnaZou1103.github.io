@@ -2,10 +2,10 @@
 title: "Can LLM \"Self-report\"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots"
 collection: publications
 permalink: /publication/Self-report
-excerpt: 'This paper is under review.'
+excerpt: 'This paper is submitted.'
 # date: 2022-08-02
 # venue: ''
-citation: '<b>H. Zou</b>, P. Wang, Z. Yan, T. Sun, Z. Xiao, (Under Review).'
+citation: '<b>H. Zou</b>, P. Wang, Z. Yan, T. Sun, Z. Xiao (Submitted).'
 ---
 
 <b>Keywords</b>: Human Factors in NLP; Evaluation Methodologies
