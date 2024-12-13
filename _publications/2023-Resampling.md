@@ -5,7 +5,7 @@ permalink: /publication/2023-Resampling
 # excerpt: 'This paper on arxiv.'
 # date: 2022-08-02
 # venue: ''
-citation: 'X. Ma, <b>H. Zou</b>, J. Keung, P. He, Y. Li, X. Yu, F. Sarro, arXiv preprint arXiv:2405.03489, 2024.'
+citation: 'X. Ma, <b>H. Zou</b>, J. Keung, P. He, Y. Li, X. Yu, F. Sarro, 2024, in IEEE Transactions on Software Engineering.'
 ---
 
 <b>Keywords</b>: Deep Learning-Based Anomaly Detection, Data Resampling Techniques, Class Imbalance, Empirical Analysis
@@ -16,6 +16,6 @@ These improvements are attributed to the increased attention given to important 
 By exploring the resampling ratio of normal to abnormal data, we suggest generating more data for minority classes through oversampling while removing less data from majority classes through undersampling. 
 In conclusion, our study provides valuable insights into the intricate relationship between data resampling methods and DLLAD. By addressing the challenge of class imbalance, researchers and practitioners can enhance DLLAD performance.
 
-This paper is on arxiv.
+This paper is publishied on IEEE Transactions on Software Engineering.
 
-[Download paper here](https://arxiv.org/abs/2405.03489)
+[Download paper here](http://annazou1103.github.io/files/resampling.pdf)
