@@ -86,7 +86,7 @@ author:
   location         : "Baltimore, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=xVEwBxgAAAAJ&hl=en"
   email            : "hzou11@jhu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,7 +95,7 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
+  foursquare       : 
   github           : "AnnaZou1103"
   google_plus      :
   keybase          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "huiqizou"
-  orcid            : "http://orcid.org/0000-0003-2948-550X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
