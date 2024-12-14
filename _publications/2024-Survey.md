@@ -5,14 +5,12 @@ permalink: /publication/Survey
 # excerpt: 'This paper is submitted.'
 # date: 2022-08-02
 # venue: ''
-citation: 'X. Ma, Y. Li, J. Keung, X. Yu, <b>H. Zou</b>, Z. Yang, F. Sarro., E. T. Barr, 2024'
+citation: 'X. Ma, Y. Li, J. Keung, X. Yu, <b>H. Zou</b>, Z. Yang, F. Sarro., E. T. Barr, 2024.'
 ---
 
 <b>Keywords</b>: Automated Log Anomaly Detection, Empirical Study, Practitioners’ Expectations
 
 Log anomaly detection has become a common prac- tice for software engineers to analyze software system behavior. Despite significant research efforts in log anomaly detection over the past decade, it remains unclear what are practitioners’ expec- tations on log anomaly detection and whether current research meets their needs. To fill this gap, we conduct an empirical study, surveying 312 practitioners from 36 countries about their expec- tations on log anomaly detection. In particular, we investigate various factors influencing practitioners’ willingness to adopt log anomaly detection tools. We then perform a literature review on log anomaly detection, focusing on publications in premier venues from 2014 to 2024, to compare practitioners’ needs with the current state of research. Based on this comparison, we highlight the directions for researchers to focus on to develop log anomaly detection techniques that better meet practitioners’ expectations.
 
-
-This paper is under review.
 
 [Download paper here](https://arxiv.org/abs/2412.01066)
