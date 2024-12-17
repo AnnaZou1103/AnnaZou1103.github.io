@@ -1,7 +1,7 @@
 ---
 title: "Practitioners' Expectations on Log Anomaly Detection"
 collection: publications
-permalink: /publication/Survey
+permalink: /publication/2024-Survey
 # excerpt: 'This paper is submitted.'
 # date: 2022-08-02
 # venue: ''

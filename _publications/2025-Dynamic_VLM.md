@@ -1,7 +1,7 @@
 ---
 title: "Towards Dynamic and Realistic Evaluation of Multi-modal Large Language Model"
 collection: publications
-permalink: /publication/2024-Dynamic_VLM
+permalink: /publication/2025-Dynamic_VLM
 #excerpt: 'This paper is under review.'
 # date: 2022-08-02
 # venue: ''

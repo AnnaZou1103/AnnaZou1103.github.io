@@ -1,7 +1,7 @@
 ---
 title: "Can LLM \"Self-report\"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots"
 collection: publications
-permalink: /publication/Self-report
+permalink: /publication/2025-Self-report
 # excerpt: 'This paper is submitted.'
 # date: 2022-08-02
 # venue: ''

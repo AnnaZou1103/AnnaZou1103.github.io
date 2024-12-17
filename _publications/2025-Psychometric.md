@@ -1,7 +1,7 @@
 ---
 title: "Not Yet: Large Language Models Cannot Replace Human Respondents for Psychometric Research"
 collection: publications
-permalink: /publication/2024-Psychometric
+permalink: /publication/2025-Psychometric
 #excerpt: 'This paper is under review.'
 # date: 2022-08-02
 # venue: ''
