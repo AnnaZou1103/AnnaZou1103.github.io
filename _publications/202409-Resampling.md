@@ -1,7 +1,7 @@
 ---
 title: "On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations"
 collection: publications
-permalink: /publication/2024-Resampling
+permalink: /publication/202409-Resampling
 # excerpt: 'This paper on arxiv.'
 # date: 2022-08-02
 # venue: ''
