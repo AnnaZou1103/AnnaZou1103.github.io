@@ -5,7 +5,7 @@ permalink: /publication/202411-Self-report
 # excerpt: 'This paper is submitted.'
 # date: 2022-08-02
 # venue: ''
-citation: '<b>H. Zou</b>, P. Wang, Z. Yan, T. Sun, Z. Xiao, 2024.'
+citation: '<b>H. Zou</b>, P. Wang, Z. Yan, T. Sun, Z. Xiao, 2024, arXiv preprint arXiv:2412.00207.'
 ---
 
 <b>Keywords</b>: Human Factors in NLP, Evaluation Methodologies
