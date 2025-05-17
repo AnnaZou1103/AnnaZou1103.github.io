@@ -1,11 +1,40 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: P. Wang, <strong>H. Zou</strong>, H. Chen, T. Sun, Z. Xiao, and F. Oswald.
+  - title: Personality Structured Interview for Large Language Model Simulation in Personality Research
+    authors: P. Wang, <strong>H. Zou</strong>, H. Chen, T. Sun, Z. Xiao, and F. Oswald
     conference_short: arxiv
     conference: arxiv, 2025.
     pdf: https://arxiv.org/pdf/2502.12109
     code: https://github.com/wpengda/PSI
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/PSI_LLM.pdf
+    notes: Under Review
+
+  - title: 'Can LLM "Self-report"? Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
+    authors: <strong>H. Zou</strong>, P. Wang, Z. Yan, T. Sun, and Z. Xiao
+    conference_short: arxiv
+    conference: arxiv, 2024.
+    pdf: https://arxiv.org/pdf/2412.00207
+    code:  https://github.com/isle-dev/self-report
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/self_report.pdf
+    notes: Under Review
+    
+  - title: "Not Yet: Large Language Models Cannot Replace Human Respondents for Psychometric Research"
+    authors: P. Wang, <strong>H. Zou</strong>, Z. Yan, F. Guo, T. Sun, Z. Xiao, and B. Zhang
+    conference_short: OSF Preprints
+    conference: OSF Preprints, 2024.
+    pdf: osf.io/rwy9b
+    code:  https://github.com/wpengda/LLM_Responses
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/not_yet.png
+    notes: Under Review
+
+  - title: Practitioners’ Expectations on Log Anomaly Detection
+    authors: X. Ma, Y. Li, J. Keung, X. Yu, <strong>H. Zou</strong>, Z. Yang, F. Sarro, and E. T. Barr
+    conference_short: arxiv
+    conference: arxiv, 2024.
+    pdf: https://arxiv.org/pdf/2412.01066
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/log_survey.png
     notes: Under Review
