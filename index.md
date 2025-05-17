@@ -14,7 +14,7 @@ My research interest lies in human-computer interaction (HCI) and natural langua
 - What is the role of interaction in system building and evaluation?
 - How to conduct evaluation in a task-driven scenarios? 
 
-My <b>ultimate goal<b> is to build interactive systems for more engaging human-computer communication and transition from static evaluation methods to more flexible, task-driven assessments that capture the diverse scenarios in which models are deployed. 
+My <b>ultimate goal</b> is to build interactive systems for more engaging human-computer communication and transition from static evaluation methods to more flexible, task-driven assessments that capture the diverse scenarios in which models are deployed. 
 
 ## News
 
