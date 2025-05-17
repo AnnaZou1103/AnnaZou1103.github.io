@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2502.12109
     code: https://github.com/wpengda/PSI
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/PSI_LLM.pdf
+    image: ./assets/img/PSI_LLM.png
     # notes: Under Review
 
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
@@ -17,7 +17,7 @@ main:
     pdf: https://arxiv.org/pdf/2412.00207
     code:  https://github.com/isle-dev/self-report
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/self_report.pdf
+    image: ./assets/img/self_report.png
     # notes: Under Review
     
   - title: "Not Yet: Large Language Models Cannot Replace Human Respondents for Psychometric Research"
