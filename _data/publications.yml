@@ -24,7 +24,7 @@ main:
     authors: P. Wang, <strong>H. Zou</strong>, Z. Yan, F. Guo, T. Sun, Z. Xiao, and B. Zhang
     conference_short: OSF Preprints
     conference: OSF Preprints, 2024.
-    pdf: osf.io/rwy9b
+    pdf: https://osf.io/preprints/osf/rwy9b_v1
     code:  https://github.com/wpengda/LLM_Responses
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/not_yet.png
@@ -59,7 +59,7 @@ main:
     image: ./assets/img/attsum.png
     # notes: Under Review
 
-  - title: "AttSum: A Deep Attention-based Summarization Model for Bug Report Title Generation"
+  - title: Generating Natural Language Responses in Robot-Mediated Referential Communication Tasks to Simulate Theory of Mind
     authors: Z. Liu*, Y. Qin*, <strong>H. Zou</strong>*, E. J. Paek, D. Casenhiser, W. Zhou, and X. Zhao
     conference_short: ICSR
     conference: International Conference on Social Robotics, 2022.
