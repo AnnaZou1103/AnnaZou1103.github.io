@@ -10,6 +10,34 @@ main:
     image: ./assets/img/PSI_LLM.png
     # notes: Under Review
 
+  - title: "On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations"
+    authors: X. Ma, <strong>H. Zou</strong>, P. He, J. Keung, Y. Li, X. Yu, and F. Sarro
+    conference_short: IEEE TSE
+    conference: IEEE Transactions on Software Engineering, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10786877
+    code: https://github.com/ResamplingDLLAD/ResamplingEmpirical
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/sample.png
+    # notes: Under Review
+
+  - title: Practitioners’ Expectations on Log Anomaly Detection
+    authors: X. Ma, Y. Li, J. Keung, X. Yu, <strong>H. Zou</strong>, Z. Yang, F. Sarro, and E. T. Barr
+    conference_short: arxiv
+    conference: arxiv, 2024.
+    pdf: https://arxiv.org/pdf/2412.01066
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/log_survey.png
+    # notes: Under Review
+
+  # - title: Towards Dynamic and Realistic Evaluation of Multi-modal Large Language Model
+  #   authors: Yi. Li*, <strong>H. Zou</strong>*, and Z. Xiao
+  #   conference_short: EMNLP workshop.
+  #   conference: GenBench workshop at EMNLP, 2024.
+  #   pdf: https://genbench.org/assets/extended_abstracts_2023/30_Towards_Dynamic_and_Realist.pdf
+  #   # code: https://github.com/mkkmaomao/AttSum
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/TOM.png
+
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
     authors: <strong>H. Zou</strong>, P. Wang, Z. Yan, T. Sun, and Z. Xiao
     conference_short: arxiv
@@ -28,25 +56,6 @@ main:
     code:  https://github.com/wpengda/LLM_Responses
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/not_yet.png
-    # notes: Under Review
-
-  - title: "On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations"
-    authors: X. Ma, <strong>H. Zou</strong>, P. He, J. Keung, Y. Li, X. Yu, and F. Sarro
-    conference_short: IEEE TSE
-    conference: IEEE Transactions on Software Engineering, 2024.
-    pdf: https://ieeexplore.ieee.org/document/10786877
-    code: https://github.com/ResamplingDLLAD/ResamplingEmpirical
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/sample.png
-    # notes: Under Review
-
-  - title: Practitioners’ Expectations on Log Anomaly Detection
-    authors: X. Ma, Y. Li, J. Keung, X. Yu, <strong>H. Zou</strong>, Z. Yang, F. Sarro, and E. T. Barr
-    conference_short: arxiv
-    conference: arxiv, 2024.
-    pdf: https://arxiv.org/pdf/2412.01066
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/log_survey.png
     # notes: Under Review
 
   - title: "AttSum: A Deep Attention-based Summarization Model for Bug Report Title Generation"
