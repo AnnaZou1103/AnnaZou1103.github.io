@@ -18,7 +18,8 @@ My <b>ultimate goal</b> is to build interactive systems for more engaging human-
 
 ## News
 
-<!-- - **[Apr. 2025]** I will join the <a href='https://wyshi.github.io/group.html'>CHATS Lab</a> at Northeastern University as a first-year Ph.D. student in 2025 Fall. -->
+<!-- - **[Apr. 2025]** I joined the <a href='https://wyshi.github.io/group.html'>CHATS Lab</a> at Northeastern University as a first-year Ph.D. student. -->
+- **[Jul. 2025]** Our paper 'Can LLM "Self-report' has been accepted by COLM 2025.
 - **[Dec. 2024]** I graduated from Johns Hopkins University with an M.S.E. in Computer Science.
 
 {% include_relative _includes/publications.md %}
