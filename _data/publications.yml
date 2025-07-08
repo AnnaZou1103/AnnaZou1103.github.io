@@ -22,8 +22,8 @@ main:
 
   - title: Practitioners’ Expectations on Log Anomaly Detection
     authors: X. Ma, Y. Li, J. Keung, X. Yu, <strong>H. Zou</strong>, Z. Yang, F. Sarro, and E. T. Barr
-    conference_short: arxiv
-    conference: arxiv, 2024.
+    conference_short: IEEE TSE
+    conference: IEEE Transactions on Software Engineering, 2024.
     pdf: https://arxiv.org/pdf/2412.01066
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/log_survey.png
