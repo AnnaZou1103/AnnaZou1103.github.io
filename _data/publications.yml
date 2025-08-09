@@ -1,8 +1,18 @@
 main:
+  - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
+    authors: <strong>H. Zou</strong>, P. Wang, Z. Yan, T. Sun, and Z. Xiao
+    conference_short: COLM
+    conference: Conference on Language Modeling (COLM), 2025.
+    pdf: https://arxiv.org/pdf/2412.00207
+    code:  https://github.com/isle-dev/self-report
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/self_report.png
+    # notes: Under Review
+
   - title: Practitioners’ Expectations on Log Anomaly Detection
     authors: X. Ma, Y. Li, J. Keung, X. Yu, <strong>H. Zou</strong>, Z. Yang, F. Sarro, and E. T. Barr
     conference_short: IEEE TSE
-    conference: IEEE Transactions on Software Engineering, 2025.
+    conference: IEEE Transactions on Software Engineering (IEEE TSE), 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/11072823
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/log_survey.png
@@ -21,7 +31,7 @@ main:
   - title: "On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations"
     authors: X. Ma, <strong>H. Zou</strong>, P. He, J. Keung, Y. Li, X. Yu, and F. Sarro
     conference_short: IEEE TSE
-    conference: IEEE Transactions on Software Engineering, 2024.
+    conference: IEEE Transactions on Software Engineering (IEEE TSE), 2024.
     pdf: https://ieeexplore.ieee.org/document/10786877
     code: https://github.com/ResamplingDLLAD/ResamplingEmpirical
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -36,16 +46,6 @@ main:
   #   # code: https://github.com/mkkmaomao/AttSum
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   image: ./assets/img/TOM.png
-
-  - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
-    authors: <strong>H. Zou</strong>, P. Wang, Z. Yan, T. Sun, and Z. Xiao
-    conference_short: arxiv
-    conference: arxiv, 2024.
-    pdf: https://arxiv.org/pdf/2412.00207
-    code:  https://github.com/isle-dev/self-report
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/self_report.png
-    # notes: Under Review
     
   - title: "Not Yet: Large Language Models Cannot Replace Human Respondents for Psychometric Research"
     authors: P. Wang, <strong>H. Zou</strong>, Z. Yan, F. Guo, T. Sun, Z. Xiao, and B. Zhang
@@ -60,7 +60,7 @@ main:
   - title: "AttSum: A Deep Attention-based Summarization Model for Bug Report Title Generation"
     authors: X. Ma, J. Keung, X. Yu, <strong>H. Zou</strong>, J. Zhang, and Y. Li
     conference_short: IEEE Trans. Reliab
-    conference: IEEE Transactions on Reliability, 2023.
+    conference: IEEE Transactions on Reliability (IEEE Trans. Reliab), 2023.
     pdf: https://ieeexplore.ieee.org/document/10025567
     code: https://github.com/mkkmaomao/AttSum
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -70,7 +70,7 @@ main:
   - title: Generating Natural Language Responses in Robot-Mediated Referential Communication Tasks to Simulate Theory of Mind
     authors: Z. Liu*, Y. Qin*, <strong>H. Zou</strong>*, E. J. Paek, D. Casenhiser, W. Zhou, and X. Zhao
     conference_short: ICSR
-    conference: International Conference on Social Robotics, 2022.
+    conference: International Conference on Social Robotics (ICSR), 2022.
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-24667-8_9
     # code: https://github.com/mkkmaomao/AttSum
     # bibtex: https://bib.yliu.me/MICCAI23.txt
