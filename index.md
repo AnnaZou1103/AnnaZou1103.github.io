@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 Hi, I am Huiqi Zou, a Ph.D. student working under the guidance of <a href="https://wyshi.github.io">Prof. Weiyan Shi</a> and <a href="https://coe.northeastern.edu/people/wang-yanzhi/">Prof. Yanzhi Wang</a> at Northeastern University.
-I hold a Master’s degree in Computer Science from <a href="https://www.cs.jhu.edu">Johns Hopkins University</a>, where I completed a thesis under the supervision of <a href="https://www.ziangxiao.com/">Prof. Ziang Xiao</a>.<br>
+I hold a Master’s degree in Computer Science from <a href="https://www.cs.jhu.edu">Johns Hopkins University</a>, where I completed a thesis under the supervision of <a href="https://www.ziangxiao.com/">Prof. Ziang Xiao</a>.
 Previously, I earned a Bachelor’s degree in Computer Science (Artificial Intelligence Stream) from <a href="https://www.cs.cityu.edu.hk">City University of Hong Kong</a>, where I completed my final year project under the supervision of <a href='https://sites.google.com/site/aisquaredlab/'>Prof. Linqi Song</a>. 
 
 ## Research Interests
