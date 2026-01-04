@@ -4,6 +4,8 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025</autocolor></a></li>
+  <li><a href="https://workshop-multi-turn-interaction.github.io//"><autocolor>Multi-Turn Interactions in LLMs Workshop at NeurIPS, 2025</autocolor></a></li>
+  <li><a href="https://2026.eacl.org/"><autocolor>Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026</autocolor></a></li>
   <!-- <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>

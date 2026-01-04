@@ -1,4 +1,14 @@
 main:
+  - title: Personality Structured Interview for Large Language Model Simulation in Personality Research
+    authors: P. Wang, <strong>H. Zou</strong>, H. Chen, T. Sun, Z. Xiao, and F. Oswald
+    conference_short: EACL
+    conference: EACL, 2026.
+    pdf: https://arxiv.org/pdf/2502.12109
+    code: https://github.com/wpengda/PSI
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/PSI_LLM.png
+    # notes: Under Review
+  
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
     authors: <strong>H. Zou</strong>, P. Wang, Z. Yan, T. Sun, and Z. Xiao
     conference_short: COLM
@@ -18,16 +28,6 @@ main:
     image: ./assets/img/log_survey.png
     # notes: Under Review
     
-  - title: Personality Structured Interview for Large Language Model Simulation in Personality Research
-    authors: P. Wang, <strong>H. Zou</strong>, H. Chen, T. Sun, Z. Xiao, and F. Oswald
-    conference_short: arxiv
-    conference: arxiv, 2025.
-    pdf: https://arxiv.org/pdf/2502.12109
-    code: https://github.com/wpengda/PSI
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/PSI_LLM.png
-    # notes: Under Review
-
   - title: "On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations"
     authors: X. Ma, <strong>H. Zou</strong>, P. He, J. Keung, Y. Li, X. Yu, and F. Sarro
     conference_short: IEEE TSE
