@@ -1,12 +1,12 @@
 main:
-  - title: Personality Structured Interview for Large Language Model Simulation in Personality Research
-    authors: P. Wang, <strong>H. Zou</strong>, H. Chen, T. Sun, Z. Xiao, and F. Oswald
+  - title: Generative Personality Simulation via Theory-Informed Structured Interview
+    authors: P. Wang, <strong>H. Zou</strong>, H. Jiang, H. Chen, T. Sun, X. Yi, Z. Xiao, and F. Oswald
     conference_short: EACL
     conference: Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026.
     pdf: https://arxiv.org/pdf/2502.12109
     code: https://github.com/wpengda/PSI
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/PSI_LLM.png
+    image: ./assets/img/PSI_LLM.pdf
     # notes: Under Review
   
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
