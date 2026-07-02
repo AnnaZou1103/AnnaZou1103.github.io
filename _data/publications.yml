@@ -1,16 +1,26 @@
-main:
+# main:
+#     - title: Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?
+#     authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., & Shi, W.
+#     conference_short: Arxiv
+#     conference: Arxiv, 2026.
+#     pdf: https://arxiv.org/abs/2606.05647
+#     code: https://github.com/CHATS-lab/coding-agent-safety-monitor
+#     # bibtex: https://bib.yliu.me/MICCAI23.txt
+#     image: ./assets/img/sabotage.png
+#     # notes: Under Review
+  
   - title: Generative Personality Simulation via Theory-Informed Structured Interview
-    authors: P. Wang, <strong>H. Zou</strong>, H. Jiang, H. Chen, T. Sun, X. Yi, Z. Xiao, and F. Oswald
+    authors: Wang, P., <strong>Zou, H.</strong>, Jiang, H., Chen, H., Sun, T., Yi, X.,  Xiao, Z., and Oswald, F. L.
     conference_short: EACL
     conference: Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026.
     pdf: https://arxiv.org/pdf/2502.12109
     code: https://github.com/wpengda/PSI
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/PSI_LLM.pdf
+    image: ./assets/img/PSI_LLM.png
     # notes: Under Review
   
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
-    authors: <strong>H. Zou</strong>, P. Wang, Z. Yan, T. Sun, and Z. Xiao
+    authors: <strong>Zou, H.</strong>, Wang, P., Yan, Z., Sun, T., and Xiao, Z
     conference_short: COLM
     conference: Conference on Language Modeling (COLM), 2025.
     pdf: https://arxiv.org/pdf/2412.00207
@@ -48,7 +58,7 @@ main:
   #   image: ./assets/img/TOM.png
     
   - title: "Not Yet: Large Language Models Cannot Replace Human Respondents for Psychometric Research"
-    authors: P. Wang, <strong>H. Zou</strong>, Z. Yan, F. Guo, T. Sun, Z. Xiao, and B. Zhang
+    authors:  Wang, P., <strong>Zou, H.</strong>, Yan, Z., Guo, F., Sun, T., Xiao, Z., and Zhang, B.
     conference_short: OSF Preprints
     conference: OSF Preprints, 2024.
     pdf: https://osf.io/preprints/osf/rwy9b_v1
@@ -67,11 +77,11 @@ main:
   #   image: ./assets/img/attsum.png
   #   # notes: Under Review
 
-  - title: Generating Natural Language Responses in Robot-Mediated Referential Communication Tasks to Simulate Theory of Mind
-    authors: Z. Liu*, Y. Qin*, <strong>H. Zou</strong>*, E. J. Paek, D. Casenhiser, W. Zhou, and X. Zhao
-    conference_short: ICSR
-    conference: International Conference on Social Robotics (ICSR), 2022.
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-24667-8_9
-    # code: https://github.com/mkkmaomao/AttSum
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/TOM.png
+  # - title: Generating Natural Language Responses in Robot-Mediated Referential Communication Tasks to Simulate Theory of Mind
+  #   authors: Z. Liu*, Y. Qin*, <strong>H. Zou</strong>*, E. J. Paek, D. Casenhiser, W. Zhou, and X. Zhao
+  #   conference_short: ICSR
+  #   conference: International Conference on Social Robotics (ICSR), 2022.
+  #   pdf: https://link.springer.com/chapter/10.1007/978-3-031-24667-8_9
+  #   # code: https://github.com/mkkmaomao/AttSum
+  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/TOM.png
