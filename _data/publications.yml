@@ -1,5 +1,5 @@
 main:
-    - title: Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?
+  - title: 'Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?'
     authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., & Shi, W.
     conference_short: DL4C @ ICML 2026
     conference: DL4C @ ICML (Best Paper), 2026.
