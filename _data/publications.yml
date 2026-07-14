@@ -1,13 +1,13 @@
 main:
-#     - title: Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?
-#     authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., & Shi, W.
-#     conference_short: Arxiv
-#     conference: Arxiv, 2026.
-#     pdf: https://arxiv.org/abs/2606.05647
-#     code: https://github.com/CHATS-lab/coding-agent-safety-monitor
-#     # bibtex: https://bib.yliu.me/MICCAI23.txt
-#     image: ./assets/img/sabotage.png
-#     # notes: Under Review
+    - title: Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?
+    authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., & Shi, W.
+    conference_short: DL4C @ ICML 2026
+    conference: DL4C @ ICML (Best Paper), 2026.
+    pdf: https://arxiv.org/abs/2606.05647
+    code: https://github.com/CHATS-lab/coding-agent-safety-monitor
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/sabotage.png
+    # notes: Under Review
   
   - title: Generative Personality Simulation via Theory-Informed Structured Interview
     authors: Wang, P., <strong>Zou, H.</strong>, Jiang, H., Chen, H., Sun, T., Yi, X.,  Xiao, Z., and Oswald, F. L.
