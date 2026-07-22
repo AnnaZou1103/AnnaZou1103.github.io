@@ -1,16 +1,25 @@
 main:
   - title: 'Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?'
-    authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., & Shi, W.
+    authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., and Shi, W.
     conference_short: DL4C @ ICML 2026
     conference: DL4C @ ICML (Best Paper), 2026.
     pdf: https://arxiv.org/abs/2606.05647
     code: https://github.com/CHATS-lab/coding-agent-safety-monitor
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/sabotage.png
+    image: ./assets/img/code_sabotage.png
     # notes: Under Review
+
+  - title: Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions
+    authors: Li, Yi.*, <strong>Zou, H.*</strong>, Wang, B., and Xiao, Z.
+    conference_short: Arxiv.
+    conference: Arxiv, 2026.
+    pdf: https://arxiv.org/abs/2607.14499
+    code: https://github.com/williamium3000/cedi
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/VLM.png
   
   - title: Generative Personality Simulation via Theory-Informed Structured Interview
-    authors: Wang, P., <strong>Zou, H.</strong>, Jiang, H., Chen, H., Sun, T., Yi, X.,  Xiao, Z., and Oswald, F. L.
+    authors: Wang, P., <strong>Zou, H.</strong>, Jiang, H., Chen, H., Sun, T., Yi, X., Xiao, Z., and Oswald, F. L.
     conference_short: EACL
     conference: Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026.
     pdf: https://arxiv.org/pdf/2502.12109
@@ -47,15 +56,6 @@ main:
   #   # bibtex: https://bib.yliu.me/MICCAI23.txt
   #   image: ./assets/img/sample.png
   #   # notes: Under Review
-
-  # - title: Towards Dynamic and Realistic Evaluation of Multi-modal Large Language Model
-  #   authors: Yi. Li*, <strong>H. Zou</strong>*, and Z. Xiao
-  #   conference_short: EMNLP workshop.
-  #   conference: GenBench workshop at EMNLP, 2024.
-  #   pdf: https://genbench.org/assets/extended_abstracts_2023/30_Towards_Dynamic_and_Realist.pdf
-  #   # code: https://github.com/mkkmaomao/AttSum
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/TOM.png
     
   - title: "Not Yet: Large Language Models Cannot Replace Human Respondents for Psychometric Research"
     authors:  Wang, P., <strong>Zou, H.</strong>, Yan, Z., Guo, F., Sun, T., Xiao, Z., and Zhang, B.
