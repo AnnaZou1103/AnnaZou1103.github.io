@@ -10,8 +10,8 @@ main:
     # notes: Under Review
 
   - title: Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions
-    authors: Li, Yi.*, <strong>Zou, H.*</strong>, Wang, B., and Xiao, Z.
-    conference_short: Arxiv.
+    authors: Li, Y.*, <strong>Zou, H.*</strong>, Wang, B., and Xiao, Z.
+    conference_short: Arxiv
     conference: Arxiv, 2026.
     pdf: https://arxiv.org/abs/2607.14499
     code: https://github.com/williamium3000/cedi
