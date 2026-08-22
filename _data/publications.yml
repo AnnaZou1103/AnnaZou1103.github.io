@@ -21,7 +21,7 @@ main:
   - title: Generative Personality Simulation via Theory-Informed Structured Interview
     authors: Wang, P., <strong>Zou, H.</strong>, Jiang, H., Chen, H., Sun, T., Yi, X., Xiao, Z., and Oswald, F. L.
     conference_short: EACL
-    conference: Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026.
+    conference: European Chapter of the Association for Computational Linguistics (EACL), 2026. Oral
     pdf: https://arxiv.org/pdf/2502.12109
     code: https://github.com/wpengda/PSI
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -29,7 +29,7 @@ main:
     # notes: Under Review
   
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
-    authors: <strong>Zou, H.</strong>, Wang, P., Yan, Z., Sun, T., and Xiao, Z
+    authors: <strong>Zou, H.</strong>, Wang, P., Yan, Z., Sun, T., and Xiao, Z.
     conference_short: COLM
     conference: Conference on Language Modeling (COLM), 2025.
     pdf: https://arxiv.org/pdf/2412.00207
