@@ -2,12 +2,12 @@ main:
   - title: 'Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?'
     authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., and Shi, W.
     conference_short: DL4C @ ICML 2026
-    conference: DL4C @ ICML (Best Paper), 2026.
+    conference: DL4C @ ICML, 2026.
     pdf: https://arxiv.org/abs/2606.05647
     code: https://github.com/CHATS-lab/coding-agent-safety-monitor
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/code_sabotage.png
-    # notes: Under Review
+    notes: Best Paper
 
   - title: Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions
     authors: Li, Y.*, <strong>Zou, H.*</strong>, Wang, B., and Xiao, Z.
@@ -21,12 +21,12 @@ main:
   - title: Generative Personality Simulation via Theory-Informed Structured Interview
     authors: Wang, P., <strong>Zou, H.</strong>, Jiang, H., Chen, H., Sun, T., Yi, X., Xiao, Z., and Oswald, F. L.
     conference_short: EACL
-    conference: European Chapter of the Association for Computational Linguistics (EACL), 2026. Oral
+    conference: European Chapter of the Association for Computational Linguistics (EACL), 2026.
     pdf: https://arxiv.org/pdf/2502.12109
     code: https://github.com/wpengda/PSI
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/PSI_LLM.png
-    # notes: Under Review
+    notes: Oral
   
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
     authors: <strong>Zou, H.</strong>, Wang, P., Yan, Z., Sun, T., and Xiao, Z.
