@@ -97,6 +97,6 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .links a.btn { font-size: 12px; margin-right: 4px; }
 
-.publications .award { display: inline-block; background-color: transparent !important; color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); position: static; margin-left: 5px; box-shadow: none; padding: 0.15em 0.45em; font-size: 70%; vertical-align: middle; }
+.publications .award { display: inline; background: none !important; border: none; box-shadow: none; position: static; padding: 0; margin-left: 2px; color: #C0392B !important; font-weight: 700; font-style: normal; font-size: 0.9em; vertical-align: baseline; }
 
 @media print, screen and (max-width: 640px) { .pub-row { display: block; } }
