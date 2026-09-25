@@ -1,19 +1,19 @@
 main:
   - title: 'Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?'
     authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., and Shi, W.
-    conference_short: DL4C @ ICML 2026
-    conference: DL4C @ ICML, 2026.
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems & ICML DL4C, 2026.
     pdf: https://arxiv.org/abs/2606.05647
     code: https://github.com/CHATS-lab/coding-agent-safety-monitor
     page: https://coding-with-enemy.github.io
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/code_sabotage.png
-    notes: (Best Paper)
+    notes: (Best Paper @ ICML DL4C)
 
   - title: Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions
     authors: Li, Y.*, <strong>Zou, H.*</strong>, Wang, B., and Xiao, Z.
-    conference_short: Arxiv
-    conference: Arxiv, 2026.
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems & EMNLP GenBench, 2026.
     pdf: https://arxiv.org/abs/2607.14499
     code: https://github.com/williamium3000/cedi
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -23,32 +23,21 @@ main:
     authors: Wang, P., <strong>Zou, H.</strong>, Jiang, H., Chen, H., Sun, T., Yi, X., Xiao, Z., and Oswald, F. L.
     conference_short: EACL
     conference: European Chapter of the Association for Computational Linguistics, 2026.
-    pdf: https://arxiv.org/pdf/2502.12109
+    pdf: https://arxiv.org/abs/2502.12109
     code: https://github.com/wpengda/PSI
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/PSI_LLM.png
-    notes: (Oral)
   
   - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots'
     authors: <strong>Zou, H.</strong>, Wang, P., Yan, Z., Sun, T., and Xiao, Z.
     conference_short: COLM
     conference: Conference on Language Modeling, 2025.
-    pdf: https://arxiv.org/pdf/2412.00207
+    pdf: https://arxiv.org/abs/2412.00207
     code:  https://github.com/isle-dev/self-report
     news: https://www.sciencenews.org/article/ai-chatbot-personalities
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/self_report.png
     # notes: Under Review
-    
-  # - title: "On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations"
-  #   authors: X. Ma, <strong>H. Zou</strong>, P. He, J. Keung, Y. Li, X. Yu, and F. Sarro
-  #   conference_short: IEEE TSE
-  #   conference: IEEE Transactions on Software Engineering (IEEE TSE), 2024.
-  #   pdf: https://ieeexplore.ieee.org/document/10786877
-  #   code: https://github.com/ResamplingDLLAD/ResamplingEmpirical
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/sample.png
-  #   # notes: Under Review
     
   - title: "Not Yet: Large Language Models Cannot Replace Human Respondents for Psychometric Research"
     authors:  Wang, P., <strong>Zou, H.</strong>, Yan, Z., Guo, F., Sun, T., Xiao, Z., and Zhang, B.
@@ -59,12 +48,3 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/not_yet.png
     # notes: Under Review
-
-  # - title: Generating Natural Language Responses in Robot-Mediated Referential Communication Tasks to Simulate Theory of Mind
-  #   authors: Z. Liu*, Y. Qin*, <strong>H. Zou</strong>*, E. J. Paek, D. Casenhiser, W. Zhou, and X. Zhao
-  #   conference_short: ICSR
-  #   conference: International Conference on Social Robotics (ICSR), 2022.
-  #   pdf: https://link.springer.com/chapter/10.1007/978-3-031-24667-8_9
-  #   # code: https://github.com/mkkmaomao/AttSum
-  #   # bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/TOM.png

@@ -16,9 +16,10 @@ My research interest lies in natural language processing (NLP) and human-compute
 My <b>ultimate goal</b> is to build interactive systems for more engaging human-computer communication and transition from static evaluation methods to more flexible, task-driven assessments that capture the diverse scenarios in which models are deployed. 
 
 ## News
-- **[Jul. 2026]** Our paper "Coding with 'Enemy'" received the Best Paper Award at the DL4C Workshop @ ICML 2026.
-- **[Jan. 2026]** Our paper "Personality Structured Interview" has been accepted by EACL 2026.
-- **[Sep. 2025]** I join Northeastern University as a first-year Ph.D. student.
+- **[Sep. 2026]** Our papers "Coding with 'Enemy'" and "Contextualized Evaluation of Vision Language Models" have been accepted by NeurIPS 2026.
+- **[Jul. 2026]** Our paper "Coding with 'Enemy'" received the Best Paper Award at the ICML DL4C Workshop.
+- **[Jan. 2026]** Our paper "Generative Personality Simulation" has been accepted by EACL 2026.
+- **[Sep. 2025]** I joined Northeastern University as a first-year Ph.D. student.
 - **[Jul. 2025]** Our paper "Can LLM 'Self-report'" has been accepted by COLM 2025.
 
 {% include_relative _includes/publications.md %}
