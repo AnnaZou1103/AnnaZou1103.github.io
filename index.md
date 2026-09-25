@@ -17,10 +17,8 @@ My <b>ultimate goal</b> is to build interactive systems for more engaging human-
 
 ## News
 - **[Sep. 2026]** Our papers "Coding with 'Enemy'" and "Contextualized Evaluation of Vision Language Models" have been accepted by NeurIPS 2026.
-- **[Jul. 2026]** Our paper "Coding with 'Enemy'" received the Best Paper Award at the ICML DL4C Workshop.
+- **[Jul. 2026]** Our paper "Coding with 'Enemy'" received the Best Paper Award at the ICML 2026 DL4C Workshop.
 - **[Jan. 2026]** Our paper "Generative Personality Simulation" has been accepted by EACL 2026.
-- **[Sep. 2025]** I joined Northeastern University as a first-year Ph.D. student.
-- **[Jul. 2025]** Our paper "Can LLM 'Self-report'" has been accepted by COLM 2025.
 
 {% include_relative _includes/publications.md %}
 
