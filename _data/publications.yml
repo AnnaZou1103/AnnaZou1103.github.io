@@ -2,7 +2,7 @@ main:
   - title: 'Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?'
     authors: Ye, J.*, <strong>Zou, H.*</strong>, Yu, S., and Shi, W.
     conference_short: NeurIPS
-    conference: Advances in Neural Information Processing Systems & ICML DL4C, 2026.
+    conference: Advances in Neural Information Processing Systems, 2026.
     pdf: https://arxiv.org/abs/2606.05647
     code: https://github.com/CHATS-lab/coding-agent-safety-monitor
     page: https://coding-with-enemy.github.io
@@ -13,7 +13,7 @@ main:
   - title: Contextualized Evaluation of Vision Language Models through Dynamic, Multi-turn Interactions
     authors: Li, Y.*, <strong>Zou, H.*</strong>, Wang, B., and Xiao, Z.
     conference_short: NeurIPS
-    conference: Advances in Neural Information Processing Systems & EMNLP GenBench, 2026.
+    conference: Advances in Neural Information Processing Systems, 2026.
     pdf: https://arxiv.org/abs/2607.14499
     code: https://github.com/williamium3000/cedi
     # bibtex: https://bib.yliu.me/MICCAI23.txt
