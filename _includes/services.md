@@ -1,11 +1,19 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Area Chair</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://iab-agents.github.io/"><autocolor>Interpreting Agent Behavior (IAB) Workshop at NeurIPS, 2026</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://2025.emnlp.org/"><autocolor>Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025</autocolor></a></li>
   <li><a href="https://workshop-multi-turn-interaction.github.io//"><autocolor>Multi-Turn Interactions in LLMs Workshop at NeurIPS, 2025</autocolor></a></li>
   <li><a href="https://2026.eacl.org/"><autocolor>Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026</autocolor></a></li>
+  <li><a href="https://meta-agents-workshop.github.io/"><autocolor>Workshop on Responsible Use of Meta-Agents at NeurIPS, 2026</autocolor></a></li>
+  <li><a href="https://usersim-workshop.github.io/"><autocolor>Grounded User Simulation (UserSim) Workshop at NeurIPS, 2026</autocolor></a></li>
   <!-- <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>

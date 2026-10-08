@@ -16,9 +16,9 @@ My research interest lies in natural language processing (NLP) and human-compute
 My <b>ultimate goal</b> is to build interactive systems for more engaging human-computer communication and transition from static evaluation methods to more flexible, task-driven assessments that capture the diverse scenarios in which models are deployed. 
 
 ## News
-- **[Sep. 2026]** Our papers "Coding with 'Enemy'" and "Contextualized Evaluation of Vision Language Models" have been accepted by NeurIPS 2026.
-- **[Jul. 2026]** Our paper "Coding with 'Enemy'" received the Best Paper Award at the ICML 2026 DL4C Workshop.
-- **[Jan. 2026]** Our paper "Generative Personality Simulation" has been accepted by EACL 2026.
+- **[Sep. 2026]** Our papers "<a href="https://arxiv.org/abs/2606.05647">Coding with 'Enemy'</a>" and "<a href="https://arxiv.org/abs/2607.14499">Contextualized Evaluation of Vision Language Models</a>" have been accepted by NeurIPS 2026.
+- **[Jul. 2026]** Our paper "<a href="https://arxiv.org/abs/2606.05647">Coding with 'Enemy'</a>" received the Best Paper Award at the ICML 2026 DL4C Workshop.
+- **[Jan. 2026]** Our paper "<a href="https://arxiv.org/abs/2502.12109">Generative Personality Simulation</a>" has been accepted by EACL 2026.
 
 {% include_relative _includes/publications.md %}
 
